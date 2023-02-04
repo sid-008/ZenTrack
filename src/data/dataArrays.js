@@ -1,31 +1,31 @@
 export const categories = [
   {
     id: 3,
-    name: 'Cookies',
+    name: 'Stress Management',
     photo_url:
-    'https://www.telegraph.co.uk/content/dam/Travel/2019/January/france-food.jpg?imwidth=1400'
+      'https://scontent-del1-1.xx.fbcdn.net/v/t39.30808-6/318786477_5252698778164015_2230611810688911563_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Xypy17-ZBAAAX9f5tjm&_nc_ht=scontent-del1-1.xx&oh=00_AfCvfmhe3NDrMDleAK7L7tsPRAu8SqMJxzTe47zhtHQrPg&oe=63E3A3CC'
   },
   {
     id: 1,
-    name: 'Mexican Food',
-    photo_url: 'https://ak1.picdn.net/shutterstock/videos/19498861/thumb/1.jpg'
+    name: 'Anger Management',
+    photo_url: 'https://scontent-del1-1.xx.fbcdn.net/v/t39.30808-6/318786477_5252698778164015_2230611810688911563_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Xypy17-ZBAAAX9f5tjm&_nc_ht=scontent-del1-1.xx&oh=00_AfCvfmhe3NDrMDleAK7L7tsPRAu8SqMJxzTe47zhtHQrPg&oe=63E3A3CC'
   },
   {
     id: 2,
-    name: 'Italian Food',
+    name: 'Anxiety',
     photo_url:
-      'https://images.unsplash.com/photo-1533777324565-a040eb52facd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80'
+      'https://scontent-del1-1.xx.fbcdn.net/v/t39.30808-6/318786477_5252698778164015_2230611810688911563_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Xypy17-ZBAAAX9f5tjm&_nc_ht=scontent-del1-1.xx&oh=00_AfCvfmhe3NDrMDleAK7L7tsPRAu8SqMJxzTe47zhtHQrPg&oe=63E3A3CC'
   },
   {
     id: 4,
-    name: 'Smoothies',
+    name: 'Meditation',
     photo_url:
-    'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/still-life-of-three-fresh-smoothies-in-front-of-royalty-free-image-561093647-1544042068.jpg?crop=0.715xw:0.534xh;0.0945xw,0.451xh&resize=768:*'
+      'https://scontent-del1-1.xx.fbcdn.net/v/t39.30808-6/318786477_5252698778164015_2230611810688911563_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Xypy17-ZBAAAX9f5tjm&_nc_ht=scontent-del1-1.xx&oh=00_AfCvfmhe3NDrMDleAK7L7tsPRAu8SqMJxzTe47zhtHQrPg&oe=63E3A3CC'
   },
   {
     id: 0,
-    name: 'Pizza',
-    photo_url: 'https://amp.businessinsider.com/images/5c084bf7bde70f4ea53f0436-750-563.jpg'
+    name: 'Mindfulness',
+    photo_url: 'https://scontent-del1-1.xx.fbcdn.net/v/t39.30808-6/318786477_5252698778164015_2230611810688911563_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Xypy17-ZBAAAX9f5tjm&_nc_ht=scontent-del1-1.xx&oh=00_AfCvfmhe3NDrMDleAK7L7tsPRAu8SqMJxzTe47zhtHQrPg&oe=63E3A3CC'
   },
 ];
 
@@ -33,8 +33,8 @@ export const recipes = [
   {
     recipeId: 122,
     categoryId: 3,
-    title: 'Oatmeal Cookies',
-    photo_url: 'https://www.texanerin.com/content/uploads/2019/06/nobake-chocolate-cookies-1-650x975.jpg',
+    title: 'Meditation',
+    photo_url: 'https://images.everydayhealth.com/images/emotional-health/meditation/a-complete-guide-to-meditation-722x406.jpg?sfvrsn=e47f03cd_0',
     photosArray: [
       'https://www.texanerin.com/content/uploads/2019/06/nobake-chocolate-cookies-1-650x975.jpg',
       "https://namelymarly.com/wp-content/uploads/2018/04/20180415_Beet_Lasagna_10.jpg",
@@ -50,9 +50,9 @@ export const recipes = [
   {
     recipeId: 3,
     categoryId: 4,
-    title: 'Triple Berry Smoothie',
+    title: 'mantra meditation',
     photo_url:
-      'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png?crop=0.803xw:0.923xh;0.116xw,0.00510xh&resize=768:*',
+      'https://i0.wp.com/blisscredo.com/wp-content/uploads/2021/05/Powerful-Benefits-of-Mantra-meditation-e1631016618547.jpg?resize=1024%2C599&ssl=1',
     photosArray: [
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png?crop=0.803xw:0.923xh;0.116xw,0.00510xh&resize=768:*',
       'https://www.vitamix.com/media/other/images/xVitamix-Triple-Berry-Smoothie-square-crop__1.jpg.pagespeed.ic.OgTC3ILD3R.jpg',
