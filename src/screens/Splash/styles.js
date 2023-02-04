@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#2cd18a'
+    backgroundColor: '#DF928E',
   },
   photo: {
     width: 150,
