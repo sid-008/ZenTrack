@@ -37,6 +37,9 @@ export default function HomeScreen(props) {
 
   return (
     <View>
+      <Text style={styles.text}>
+        {'\t'}{'\t'}{'\t'}{'\t'}Good evening!
+      </Text>
       <FlatList vertical showsVerticalScrollIndicator={false} numColumns={2} data={recipes} renderItem={renderRecipes} keyExtractor={(item) => `${item.recipeId}`} />
     </View>
   );
