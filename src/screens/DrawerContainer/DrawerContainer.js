@@ -33,6 +33,14 @@ export default function DrawerContainer(props) {
             navigation.closeDrawer();
           }}
         />
+        <MenuButton
+          title="AI CHAT"
+          source={require("../../../assets/icons/close.png")}
+          onPress={() => {
+            navigation.navigate("ChatBot");
+            navigation.closeDrawer();
+          }}
+        />
       </View>
     </View>
   );
